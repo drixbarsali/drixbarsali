@@ -5,7 +5,9 @@ With more than 10 years of experience in the Technology and Art market, passiona
 
 ### Tech Stack<br/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="c" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="c" width="40" height="40"/> <img src="
+https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="c" width="40" height="40"/>
+
 
 
 

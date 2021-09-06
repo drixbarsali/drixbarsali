@@ -1,2 +1,2 @@
-### Hi I am, Adriano (Drix) Barsali
+### Adriano (Drix) Barsali
 

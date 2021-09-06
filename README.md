@@ -4,8 +4,8 @@ With more than 10 years of experience in the Technology and Art market, passiona
 [<img align="left" alt="Me-coder" src="https://img.shields.io/badge/Linkedin-Adriano%20Barsali-blue?style=flat-square&logo=linkedin" />][linkedin]<br/>
 
 ### Tech Stack<br/>
-<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-CSS3-gray?style=flat-square&logo=css3" />
-<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-HTML5-blue?style=flat-square&logo=html5" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5" />
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?style=flat-square&logo=javascript" />
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-React / React Native-blue?style=flat-square&logo=react" />
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux" />

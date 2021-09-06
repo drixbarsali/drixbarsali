@@ -7,7 +7,7 @@ With more than 10 years of experience in the Technology and Art market, passiona
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?logo=javascript" />
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-React-blue?logo=react" />
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-Redux-purple?logo=redux" />
-<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-Angular-red?logo=angular" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-Angular-critical?logo=angular" />
 
 
 

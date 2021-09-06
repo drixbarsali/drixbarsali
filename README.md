@@ -5,6 +5,14 @@ With more than 10 years of experience in the Technology and Art market, passiona
 
 ### Tech Stack<br/>
 <img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?logo=javascript" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?logo=react" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?logo=redux" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?logo=saga" />
+<img align="left" alt="Me-coder" src="https://img.shields.io/badge/-JavaScript-gray?logo=angular" />
+
+
+
+
 
 
 

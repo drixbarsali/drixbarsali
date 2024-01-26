@@ -1,6 +1,6 @@
 ### Adriano (Drix) Barsali 
 <sup>Developer Based in Italy | 🇧🇷 | 🇬🇧 | 🇮🇹</sup><br/><br/>
-![Blogger][blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)[blog]
 <br/>
 [<img align="left" alt="Me-coder" src="https://img.shields.io/badge/Linkedin-Adriano%20Barsali-blue?style=flat-square&logo=linkedin" />][linkedin]
 <br/>
